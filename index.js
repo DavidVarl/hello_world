@@ -1,4 +1,4 @@
-//this functon outputs hello linoln 
+//this is where my code begins
 start();
 function start(){
   for (var i=0; i < 20; i ++) {
