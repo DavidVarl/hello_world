@@ -1,4 +1,16 @@
 //this functon outputs hello linoln 
+start();
+function start(){
+  for (var i=0; i < 20; i ++) {
+  T();
+  I();
+  G();
+  E();
+  R();
+  S();
+ }
+}
+
 function T() {
   console.log("TTTTTTTTTTTT")
   console.log("     T      ")
@@ -63,12 +75,4 @@ function S() {
   console.log("   SSSS   ")
   console.log("SSSS   ")
   console.log()
-}
-for (var i=0; i < 20; i ++) {
-  T();
-  I();
-  G();
-  E();
-  R();
-  S();
 }
